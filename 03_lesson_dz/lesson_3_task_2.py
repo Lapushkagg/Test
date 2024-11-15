@@ -11,4 +11,4 @@ catalog = [
 
 # Печатаем библиотеку
 for Smartphone in catalog:
-    print(f"{Smartphone.marka} - {Smartphone.madel} - {Smartphone.nomer}")
+    print(f"{Smartphone.marka} - {Smartphone.madel}. {Smartphone.nomer}")
